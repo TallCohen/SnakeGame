@@ -6,17 +6,19 @@
   border: 3px solid;
 }
 
-#scoreText {
+#scoreText,
+#highScoreText {
   font-family: cursive;
-  font-size: 80px;
+  font-size: 30px;
+  margin-bottom: 10px;
 }
 
 #resetBtn {
   font-family: cursive;
-  font-size: 40px;
-  width: 150px;
-  height: 70px;
-  border: 4px solid;
+  font-size: 25px;
+  width: 100px;
+  height: 40px;
+  border: 2px solid;
   border-radius: 10px;
   cursor: pointer;
 }
